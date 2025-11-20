@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrS+Nz1a7zGStT3HXBQEQ63M7M1vvD2I3rYiSrxHS2BbidKfIGuNhRGjyi9t+z+UnP7qrhvpcr0kzciLh8iUNg==",
+  "dgSpecHash": "iFv30AGzEbT6iXw+70ShsJAy88ZvPPGT/tpdEqMpsf4HcRGHJUo/XRR+uW8OQTCM6cCRku07BbusTXKr/seCjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\VulnerableApp.csproj",
+  "projectFilePath": "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\VulnerableApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Николай\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "C:\\Users\\Николай\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",

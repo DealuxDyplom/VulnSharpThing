@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\VulnerableApp.csproj": {}
+    "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\VulnerableApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\VulnerableApp.csproj": {
+    "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\VulnerableApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\VulnerableApp.csproj",
+        "projectUniqueName": "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\VulnerableApp.csproj",
         "projectName": "VulnerableApp",
-        "projectPath": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\VulnerableApp.csproj",
+        "projectPath": "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\VulnerableApp.csproj",
         "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\",
+        "outputPath": "C:\\Users\\Николай\\Documents\\GitHub\\VulnSharpThing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
