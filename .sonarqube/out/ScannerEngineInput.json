@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1761658098000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "SharpTest3"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.projectKey",
+      "value": "SharpTest3:E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.projectName",
+      "value": "VulnerableApp"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.projectBaseDir",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.working.directory",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.sources",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Controllers\\AuthController.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Controllers\\HomeController.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Data\\ApplicationDbContext.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Models\\User.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Error.cshtml.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Home.cshtml.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Index.cshtml.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Privacy.cshtml.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Program.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Services\\FileService.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Services\\UserService.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\VulnerableApp.GlobalUsings.g.cs,\"C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\VulnerableApp.AssemblyInfo.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\VulnerableApp.RazorAssemblyInfo.cs,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\css\\site.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\favicon.ico,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\js\\site.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\bootstrap\\LICENSE,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery-validation\\LICENSE.md,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery\\dist\\jquery.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\wwwroot\\lib\\jquery\\LICENSE.txt,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\appsettings.Development.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\appsettings.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Error.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Home.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Index.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Privacy.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Shared\\_Layout.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\_ViewImports.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\_ViewStart.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Views\\Home\\Index.cshtml,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Pages\\Shared\\_Layout.cshtml.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\Properties\\launchSettings.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\project.assets.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\VulnerableApp.csproj.nuget.dgspec.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.vs\\VulnerableApp\\config\\applicationhost.config,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.vs\\VulnerableApp\\v17\\DocumentLayout.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\bin\\Debug\\net8.0\\VulnerableApp.deps.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\bin\\Debug\\net8.0\\VulnerableApp.runtimeconfig.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\bin\\Debug\\net8.0\\VulnerableApp.staticwebassets.runtime.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\staticwebassets.development.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\staticwebassets.pack.json,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\VulnerableApp.styles.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VulnerableApp.bundle.scp.css,C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\obj\\Debug\\net8.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "E1E1A220-B79D-4D1B-A4D7-CC2A4B4D5DA8.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\Николай\\Desktop\\работа\\ТМК\\SAST\\VulnCheck2\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

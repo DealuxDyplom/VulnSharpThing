@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Vulnerable App";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Vulnerable App</h1>
+    <p>This application contains intentional security vulnerabilities for educational purposes.</p>
+
+    <!-- Уязвимость: XSS через ViewBag -->
+    <div class="alert alert-info">
+        Search Query: @ViewBag.SearchQuery
+    </div>
+
+    <!-- Уязвимость: Устаревшие библиотеки -->
+    <script src="https://code.jquery.com/jquery-1.4.2.min.js"></script>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h3>SQL Injection Demo</h3>
+            <form asp-action="Search" method="post">
+                <div class="form-group">
+                    <input type="text" name="Query" class="form-control" placeholder="Search users...">
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+
+        <div class="col-md-6">
+            <h3>File Upload Demo</h3>
+            <form asp-action="UploadFile" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <input type="file" name="file" class="form-control">
+                </div>
+                <button type="submit" class="btn btn-primary">Upload</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Уязвимость: Inline JavaScript с пользовательскими данными -->
+    <script>
+        var userData = '@ViewBag.SearchQuery';
+        if (userData) {
+            document.write('<p>You searched for: ' + userData + '</p>');
+        }
+    </script>
+</div>

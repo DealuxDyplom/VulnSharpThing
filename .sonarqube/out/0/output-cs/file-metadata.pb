@@ -1,0 +1,16 @@
+�
+wC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\obj\Debug\net8.0\VulnerableApp.RazorAssemblyInfo.csutf-8}
+rC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\obj\Debug\net8.0\VulnerableApp.AssemblyInfo.csutf-8�
+�C:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8
+tC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\obj\Debug\net8.0\VulnerableApp.GlobalUsings.g.csutf-8d
+[C:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Services\UserService.csutf-8d
+[C:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Services\FileService.csutf-8^
+NC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Program.cswindows-1251d
+[C:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Pages\Privacy.cshtml.csutf-8b
+YC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Pages\Index.cshtml.csutf-8a
+XC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Pages\Home.cshtml.csutf-8b
+YC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Pages\Error.cshtml.csutf-8[
+RC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Models\User.csutf-8i
+`C:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Data\ApplicationDbContext.csutf-8j
+aC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Controllers\HomeController.csutf-8j
+aC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\Controllers\AuthController.csutf-8

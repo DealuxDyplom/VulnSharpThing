@@ -1,0 +1,1 @@
+nRXC:\Users\Николай\Desktop\работа\ТМК\SAST\VulnCheck2\VulnerableApp.csproj�net8.0�CSharp12
